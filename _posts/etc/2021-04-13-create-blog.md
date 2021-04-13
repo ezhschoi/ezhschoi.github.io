@@ -35,7 +35,7 @@ toc: true
   https://github.com/topics/jekyll-theme 
 - 예) 전 여기서 minimal-mistakes를 선택
 
-![image-20210412170601959](../images\2021-04-13\image-20210412170601959.png)
+![minimal-mistakes](https://github.com/ezhschoi/ezhschoi.github.io/blob/master/_posts/images/2021-04-13/image-20210412170601959.png?raw=true)
 
 
 
