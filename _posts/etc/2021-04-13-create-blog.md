@@ -1,14 +1,22 @@
 ---
 layout: single
+
 title:  "GitHub Blog 만들기"
 
+categories:
+    - Blog
+
+tag:
+    - Blog
+    - GitHub Page
+    - Git
+
+last_modified_at: 2021-04-13T16:34:00+09:00
+
+toc: true
 ---
 
 다음과 같은 과정을 거쳐서 Blog를 만들었다.
-
-
-
-[TOC]
 
 
 
