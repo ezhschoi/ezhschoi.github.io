@@ -14,9 +14,17 @@ tag:
 last_modified_at: 2021-04-13T16:34:00+09:00
 
 toc: true
+
+
 ---
 
+
+
 다음과 같은 과정을 거쳐서 Blog를 만들었다.
+
+
+
+[TOC]
 
 
 
@@ -35,7 +43,7 @@ toc: true
   https://github.com/topics/jekyll-theme 
 - 예) 전 여기서 minimal-mistakes를 선택
 
-![minimal-mistakes](https://github.com/ezhschoi/ezhschoi.github.io/blob/master/_posts/images/2021-04-13/image-20210412170601959.png?raw=true)
+![a](../assets/images/2021-04-13/image-20210412170601959.png)
 
 
 
@@ -44,7 +52,7 @@ toc: true
 - 선택한 테마의 좌상단의 Fork 버튼을 클릭하여 내 GitHub에 Fork함
 - Fork가 완료되면 내 GitHub 저장소에 선택한 테마가 복제됨
 
-![image-20210412170932475](../images\2021-04-13\image-20210412170932475.png)
+![image-20210412170932475](../assets/images/2021-04-13/image-20210412170932475.png)
 
 
 
@@ -54,15 +62,15 @@ toc: true
 
 * 복제된 블로그의 좌상단에 'Settings' 버튼을 클릭하여 설정 정보를 변경
 
-![image-20210413110436828](../images\2021-04-13\image-20210413110436828.png)
+![image-20210413110436828](../assets/images/2021-04-13/image-20210413110436828.png)
 
 * 설정 정보의 'Repository name'을 {GitHub ID}.github.io 로 변경한 뒤 'Rename' 버튼을 클릭하여 변경 완료
 
-![image-20210413110452231](../images\2021-04-13\image-20210413110452231.png)
+![image-20210413110452231](../assets/images/2021-04-13/image-20210413110452231.png)
 
 * 'Repository name' 변경을 완료하면 다음과 같이 이름이 변경됨을 확인할 수 있음
 
-![image-20210413110910899](../images\2021-04-13\image-20210413110910899.png)
+![image-20210413110910899](../assets/images/2021-04-13/image-20210413110910899.png)
 
 
 
@@ -70,11 +78,11 @@ toc: true
 
 - 소스 목록에서 '_config.yml' 파일을 선택하여 수정
 
-![image-20210413105504048](../images\2021-04-13\image-20210413105504048.png)
+![image-20210413105504048](../assets/images/2021-04-13/image-20210413105504048.png)
 
 - 소스 파일의 우상단의 'Edit this file' 버튼'을 클릭하여 편집
 
-![image-20210413111258986](../images\2021-04-13\image-20210413111258986.png)
+![image-20210413111258986](../assets/images/2021-04-13/image-20210413111258986.png)
 
 - URL 변경
   - 아래와 같이 'Site Settings'를 변경해 준 뒤 화면의 하단의 'Commit changes' 버튼을 클릭하여 변경사항을 저장
@@ -103,15 +111,15 @@ url                      : "https://{GitHub ID}.github.io"
 
 * 버튼 'Add file>Create new File'을 클릭하여 새 파일을 추가
 
-![image-20210413130754796](./../images\2021-04-13\image-20210413130754796.png)
+![image-20210413130754796](../assets/images/2021-04-13/image-20210413130754796.png)
 
 * 텍스트 박스에 posts/{년}-{월}-{일}-{이름}.md
 
-![image-20210413130940187](../images\2021-04-13\image-20210413130940187.png)
+![image-20210413130940187](../assets/images/2021-04-13/image-20210413130940187.png)
 
 * 예) 2021-04-13-01.md
 
-![image-20210413131211644](../images\2021-04-13\image-20210413131211644.png)
+![image-20210413131211644](../assets/images/2021-04-13/image-20210413131211644.png)
 
 * MD(Markdown) 문법에 맞추어 페이지를 작성
 * 'Commit new file' 버튼을 클릭하여 블로그 페이지 생성
@@ -125,4 +133,3 @@ url                      : "https://{GitHub ID}.github.io"
   * https://gist.github.com/ihoneymon/652be052a0727ad59601#file-how-to-write-by-markdown-md
 * MD 편집기 Tpora
   * https://typora.io/#windows
-
